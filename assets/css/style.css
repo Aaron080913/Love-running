@@ -78,6 +78,7 @@ main {
     /*make main element take up space*/
     flex: 1 0 auto;
     background-color: lightblue;
+    margin-top: 47px;
 }
 /*footer*/
 footer {
